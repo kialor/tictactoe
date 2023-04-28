@@ -1,0 +1,20 @@
+.square {
+  background-color: gainsboro;
+  width: 50px;
+  height: 50px;
+  border-style:solid;
+  border-width: 1px;
+  display:inline-block;
+  vertical-align: top;
+}
+
+.game {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+}
+
+.game-info{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
